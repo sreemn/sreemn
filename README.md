@@ -1,4 +1,5 @@
 ### About Me
-* 🎓 studying Computer Science
-* 👨‍💻 enjoys writing Swift & TypeScript
-* 🐢 attempting graphic design and music production
+
+Building products at the intersection of technology and the liberal arts.
+
+Focused on what matters.
