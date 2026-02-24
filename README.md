@@ -1,5 +1,1 @@
-### About Me
-
-Building products at the intersection of technology and the liberal arts.
-
-Focused on what matters.
+I enjoy writing in Swift and TypeScript and share my leisure projects here.
